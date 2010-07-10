@@ -25,6 +25,8 @@ import sun.management.FileSystem;
  *
  * @author filip
  */
+// novy komentar
+// dalsi novy
  public class Main {
     private int privatniInt;
     public int publicInt;
